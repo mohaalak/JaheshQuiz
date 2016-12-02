@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="startButton">Let\'s Play</string>
+    <string name="yourname">Your Name</string>
+    <string name="highscore">HighScore</string>
+    <string name="sharedPref">setting</string>
+    <string name="highscorePref">highscore</string>
+    <string name="namePref">name</string>
+    <string name="value_true">True</string>
+    <string name="value_false">False</string>
+    <string name="score">Score</string>
+</resources>
